@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Markota26 
 - 👀 Tenho interesse em *Segurança da Informação, Cybersecurity e Python*
-- 🌱 Atualmente estou estudando Python como linguaguem de programação e estou iniciando **Trabalho de Conclusão de Curso em Segurança da Informação em Ambientes Hospitalares**
+- 🌱 Atualmente estou estudando Python como linguaguem de programação e estou iniciando **Graduação em Defesa Cibernética**
 - 📫 Me ache nas redes sociais. Instagram: @cotin_ / Twitter: @PapaiCota / LinkedIn: https://www.linkedin.com/in/marciojunior0105/
 
 Precisando de ajuda só chamar! 🤓
